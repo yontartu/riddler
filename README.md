@@ -1,2 +1,3 @@
-# riddler_puzzles
-Python code to solve puzzles from 538's column The Riddler
+# Puzzles from FiveThirtyEight's Column "The Riddler"
+
+This repo stores Python code for 538's Riddler puzzles
